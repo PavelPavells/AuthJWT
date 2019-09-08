@@ -2,7 +2,7 @@
 
 To run the application first clone the repository
 ```
-git clone https://github.com/faizanv/react-auth-example.git
+git clone https://github.com/PavelPavells/AuthJWT.git
 ```
 
 Install the dependencies
